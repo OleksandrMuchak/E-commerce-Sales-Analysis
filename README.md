@@ -27,11 +27,11 @@ In this project, a comprehensive sales analytics solution will be developed for 
 
 ## Project Execution Plan
 ### 1. Dataset Creation (SQL & Python)
-Connect to the Google BigQuery database ('DA dataset') and write an SQL query to generate the primary dataset.
+Connect to the Google BigQuery database ('Dataset') and write an SQL query to generate the primary dataset.
 
 ## План виконання проєкту
 ### 1. Створення датасету (SQL & Python)
-Підключитися до бази даних Google BigQuery ('DA dataset') та написати SQL-запит для створення основного датасету.
+Підключитися до бази даних Google BigQuery ('Dataset') та написати SQL-запит для створення основного датасету.
 
 **Dataset Requirements:**
 The dataset should include the following fields:
