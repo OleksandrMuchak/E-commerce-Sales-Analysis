@@ -124,6 +124,7 @@ The dataset should include the following fields:
 * Visualization of overall sales trends, including seasonality detection
 * Analysis of sales dynamics by continent (Americas, Asia, Europe)
 * Analysis of sales dynamics by traffic sources and device types
+
 **Summary Tables:**
 * Number of sessions segmented by traffic sources and device types
 * Total sales for the top 10 product categories across the top 5 countries
@@ -133,6 +134,7 @@ The dataset should include the following fields:
 * Візуалізація загальної динаміки продажів. Пошук сезонності.
 * Аналіз динаміки продажів за континентами (Америка, Азія, Європа).
 * Аналіз динаміки продажів за каналами трафіку та типами девайсів.
+
 **Зведені таблиці:**
 * Кількість сесій у розрізі каналів трафіку та типів девайсів.
 * Загальні продажі за топ-10 категоріями у топ-5 країнах.
@@ -145,6 +147,7 @@ The dataset should include the following fields:
 * Correlation of sales across the top 3 continents
 * Correlation of sales by different traffic sources
 * Correlation of sales across the top 5 product categories
+
 **Group Comparison Analysis (Statistical Tests):**
 * Comparison of sales between registered and unregistered users
 * Comparison of session counts across different traffic channels
@@ -156,12 +159,14 @@ The dataset should include the following fields:
 * Кореляція продажів між топ-3 континентами.
 * Кореляція продажів за різними каналами трафіку.
 * Кореляція продажів за топ-5 категоріями товарів.
+
 **Аналіз відмінностей між групами (статистичні тести):**
 * Порівняння продажів зареєстрованих та незареєстрованих користувачів.
 * Порівняння кількості сесій за різними каналами трафіку.
 * Порівняння долі органічного трафіку в Європі та Америці.
 
 ---
+
 ### 5. Dashboard Creation in Tableau
 Design an analytical dashboard in Tableau Public with no more than 2 pages, summarizing the key findings from the analysis.
 
